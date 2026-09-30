@@ -1,101 +1,19 @@
-have created the account”.<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Veervar Transport Ltd | UK Delivery Services</title>
-  <meta name="description" content="Veervar Transport Ltd provides reliable delivery and transport services across the United Kingdom. Contact us for delivery work.">
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: Arial, Helvetica, sans-serif; color: #172033; background: #f5f7fa; line-height: 1.6; }
-    header { background: #0d1b2a; color: white; padding: 20px 7%; display: flex; justify-content: space-between; align-items: center; }
-    .logo { font-size: 24px; font-weight: 800; }
-    nav a { color: white; text-decoration: none; margin-left: 24px; font-weight: 600; }
-    .hero { background: linear-gradient(135deg, #0d1b2a, #1b4965); color: white; padding: 90px 7%; }
-    .hero h1 { font-size: clamp(38px, 6vw, 64px); max-width: 850px; line-height: 1.05; margin-bottom: 20px; }
-    .hero p { font-size: 21px; max-width: 700px; margin-bottom: 32px; color: #e8f1f7; }
-    .btn { display: inline-block; background: #f5b700; color: #111827; padding: 15px 24px; border-radius: 8px; text-decoration: none; font-weight: 800; margin-right: 10px; }
-    .btn.alt { background: white; }
-    section { padding: 70px 7%; max-width: 1200px; margin: auto; }
-    h2 { font-size: 36px; margin-bottom: 18px; }
-    .intro { max-width: 720px; color: #526071; margin-bottom: 35px; }
-    .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
-    .card { background: white; padding: 28px; border-radius: 14px; box-shadow: 0 8px 25px rgba(13,27,42,.08); }
-    .card h3 { margin-bottom: 10px; font-size: 21px; }
-    .icon { font-size: 34px; margin-bottom: 12px; }
-    .contact { background: #e8f1f7; text-align: center; max-width: none; }
-    .contact-inner { max-width: 900px; margin: auto; }
-    .phone { font-size: 32px; font-weight: 800; color: #0d1b2a; margin: 20px 0; }
-    .phone a { color: inherit; text-decoration: none; }
-    footer { background: #0d1b2a; color: #cbd5df; text-align: center; padding: 28px 7%; }
-    @media (max-width: 750px) {
-      header { display: block; text-align: center; }
-      nav { margin-top: 12px; }
-      nav a { margin: 0 8px; }
-      .hero { padding: 65px 7%; }
-      .cards { grid-template-columns: 1fr; }
-      .phone { font-size: 25px; }
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <div class="logo">Veervar Transport Ltd</div>
-    <nav>
-      <a href="#services">Services</a>
-      <a href="#about">About</a>
-      <a href="#contact">Contact</a>
-    </nav>
-  </header>
-
-  <main>
-    <section class="hero">
-      <h1>Reliable Delivery & Transport Services</h1>
-      <p>Veervar Transport Ltd is a UK-based transport company ready to take on delivery and transport work. Get in touch to discuss your requirements.</p>
-      <a class="btn" href="tel:07364102131">Call 07364 102131</a>
-      <a class="btn alt" href="#contact">Request a Delivery</a>
-    </section>
-
-    <section id="services">
-      <h2>What We Do</h2>
-      <p class="intro">We provide dependable transport support for businesses and customers looking for a professional delivery service.</p>
-      <div class="cards">
-        <div class="card">
-          <div class="icon">🚚</div>
-          <h3>Delivery Services</h3>
-          <p>Reliable delivery support for businesses and customers across the UK.</p>
-        </div>
-        <div class="card">
-          <div class="icon">📦</div>
-          <h3>Transport Work</h3>
-          <p>Have regular or one-off transport work? Contact us to discuss your requirements.</p>
-        </div>
-        <div class="card">
-          <div class="icon">🤝</div>
-          <h3>Professional Service</h3>
-          <p>Clear communication and a dependable approach from collection through to delivery.</p>
-        </div>
-      </div>
-    </section>
-
-    <section id="about">
-      <h2>About Veervar Transport Ltd</h2>
-      <p class="intro">Based in the United Kingdom, Veervar Transport Ltd is available for delivery and transport opportunities. If you have delivery work available, we'd be happy to hear from you.</p>
-    </section>
-
-    <section id="contact" class="contact">
-      <div class="contact-inner">
-        <h2>Need a Delivery Service?</h2>
-        <p>Call Veervar Transport Ltd to discuss your delivery or transport requirements.</p>
-        <div class="phone"><a href="tel:07364102131">07364 102131</a></div>
-        <a class="btn" href="tel:07364102131">Call Us Now</a>
-      </div>
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2026 Veervar Transport Ltd. All rights reserved.</p>
-    <p>United Kingdom</p>
-  </footer>
-</body>
-</html>
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Veervar Transport Ltd | UK Delivery & Transport</title>
+<meta name="description" content="Reliable delivery and transport services across the United Kingdom. Call Veervar Transport Ltd on 07364 102131.">
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Arial,sans-serif;color:#10284a;line-height:1.6}a{text-decoration:none}.top{background:#062b55;color:#fff;padding:9px 6%;display:flex;justify-content:space-between;font-size:14px}header{padding:16px 6%;display:flex;align-items:center;justify-content:space-between;box-shadow:0 2px 10px #0001;position:sticky;top:0;background:#fff;z-index:2}.logo{font-size:24px;font-weight:900}.logo b{color:#fbc21b}nav a{margin:0 10px;color:#10284a;font-weight:700}.call,.btn{background:#fbc21b;color:#10284a;padding:13px 21px;border-radius:30px;font-weight:800;display:inline-block}.hero{min-height:510px;background:linear-gradient(90deg,#052e59 0%,#073b70d9 43%,#073b7030),url('veervar_hero.jpg') center/cover;display:flex;align-items:center;padding:65px 6%;color:#fff}.hero-inner{max-width:650px}.hero h1{font-size:clamp(38px,6vw,62px);line-height:1.05;margin:10px 0 18px}.hero h1 span{color:#fbc21b}.hero p{font-size:20px;margin-bottom:24px}.btn.alt{background:transparent;color:#fff;border:2px solid #fff;margin-left:8px}section{padding:65px 6%;max-width:1200px;margin:auto}h2{font-size:36px;margin:0 0 10px}.lead{color:#53657a;max-width:720px;margin-bottom:28px}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}.card{padding:24px;border:1px solid #e3e9ef;border-radius:14px}.icon{font-size:34px}.card h3{margin:6px 0}.about{max-width:none;background:#f3f6f9}.about-in{max-width:1200px;margin:auto;display:grid;grid-template-columns:1fr 1fr;gap:50px}.ticks{list-style:none;padding:0}.ticks li{margin:10px 0}.ticks li:before{content:"✓";background:#fbc21b;border-radius:50%;padding:1px 6px;margin-right:9px;font-weight:bold}.jobs{max-width:none;background:#062e58;color:#fff}.jobs-in{max-width:1200px;margin:auto;display:flex;align-items:center;justify-content:space-between;gap:25px}.contact{text-align:center}.phone{font-size:32px;font-weight:900;margin:15px}.phone a{color:#10284a}footer{background:#061f3d;color:#dce7f2;text-align:center;padding:25px}@media(max-width:800px){.top{display:none}nav{display:none}.cards{grid-template-columns:1fr 1fr}.about-in,.jobs-in{display:grid;grid-template-columns:1fr}.hero{min-height:560px}.btn.alt{margin:10px 0 0 0}}@media(max-width:520px){.cards{grid-template-columns:1fr}.logo{font-size:20px}.call{padding:10px 13px;font-size:13px}}
+</style></head><body>
+<div class="top"><span>📍 Based in the United Kingdom</span><span>📞 07364 102131</span></div>
+<header><div class="logo"><b>V</b>EERVAR TRANSPORT LTD</div><nav><a href="#about">About</a><a href="#services">Services</a><a href="#jobs">Jobs</a><a href="#contact">Contact</a></nav><a class="call" href="tel:07364102131">Call 07364 102131</a></header>
+<section class="hero"><div class="hero-inner"><strong>VEERVAR TRANSPORT LTD</strong><h1>Reliable <span>Delivery & Transport</span> Services Across the UK</h1><p>We move your goods safely, on time and with care. Whether you need a single delivery or regular transport work, we're here to help.</p><a class="btn" href="tel:07364102131">Call Us Now</a><a class="btn alt" href="https://wa.me/447364102131">WhatsApp Us</a></div></section>
+<section id="services"><h2>What We Offer</h2><p class="lead">Professional and dependable delivery and transport services for businesses and customers throughout the UK.</p><div class="cards">
+<div class="card"><div class="icon">📦</div><h3>Parcel & Package Delivery</h3><p>Reliable delivery support for goods and packages.</p></div>
+<div class="card"><div class="icon">🚛</div><h3>Transport Work</h3><p>One-off or regular transport opportunities.</p></div>
+<div class="card"><div class="icon">🚐</div><h3>Van & Lorry Transport</h3><p>Flexible transport support for your requirements.</p></div>
+<div class="card"><div class="icon">📍</div><h3>UK Coverage</h3><p>Serving customers and businesses across the United Kingdom.</p></div></div></section>
+<section id="about" class="about"><div class="about-in"><div><h2>Your Trusted Transport Partner</h2><p>Veervar Transport Ltd is a UK-based transport and delivery company committed to providing safe, reliable and efficient logistics support.</p></div><div><ul class="ticks"><li>Professional and reliable service</li><li>Flexible delivery support</li><li>Clear communication</li><li>Customer satisfaction is our priority</li></ul></div></div></section>
+<section id="jobs" class="jobs"><div class="jobs-in"><div><h2>Have Delivery Work?</h2><p>If you have delivery or transport work available, we'd be happy to discuss your requirements.</p></div><a class="btn" href="tel:07364102131">Call Now: 07364 102131</a></div></section>
+<section id="contact" class="contact"><h2>Get in Touch</h2><p>For delivery work, transport enquiries or to discuss your requirements:</p><div class="phone"><a href="tel:07364102131">07364 102131</a></div><a class="btn" href="https://wa.me/447364102131">Message on WhatsApp</a><p>United Kingdom • Nationwide delivery and transport</p></section>
+<footer>© 2026 Veervar Transport Ltd. All rights reserved.</footer></body></html>
